@@ -6,6 +6,12 @@ myString;
 myString.length;
 myString.toUpperCase();
 
+var astring ="This is not the string that you are looking for."
+astring.length;
+astring.toLocaleLowerCase();
+astring.toUpperCase();
+
+
 "This is my string".length;
 
 // More info:
