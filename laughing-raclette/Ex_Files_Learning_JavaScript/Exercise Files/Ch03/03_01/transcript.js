@@ -19,6 +19,8 @@ var weather = {
   wednesday: "dry",
 }
 console.log(weather);
+console.log(weather.monday);
+
 
 // More info:
 // https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Working_with_Objects
