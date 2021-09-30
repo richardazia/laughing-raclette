@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\wordpress"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ClassicPress"
+	}
+}
